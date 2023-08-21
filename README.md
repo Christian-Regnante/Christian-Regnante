@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_christian12_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_christian12_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christian regnante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian regnante" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christian-regnante-8b1648287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian regnante" height="30" width="40" /></a>
 <a href="https://fb.com/regnante christian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="regnante christian" height="30" width="40" /></a>
 <a href="https://instagram.com/chris_r.e.gnante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chris_r.e.gnante" height="30" width="40" /></a>
 </p>
